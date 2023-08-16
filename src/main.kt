@@ -1,3 +1,6 @@
 fun main(){    
-    print("Hello World")
+    println("Hello World")
+    println("Thiago")
+
+    val nome: String = "Thiago"
 }
