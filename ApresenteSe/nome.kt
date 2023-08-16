@@ -1,2 +1,2 @@
 val nome: String = "Felipe"
-val nome: int = 20
+val idade: int = 20
